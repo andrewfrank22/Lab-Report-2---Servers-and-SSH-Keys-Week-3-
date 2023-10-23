@@ -8,6 +8,7 @@
 
 ### Part 2
 ![Image](Private_CS15.png)
+
 # The path to the *private* key 
 
 > C:\Users\17606\.ssh\id_rsa
