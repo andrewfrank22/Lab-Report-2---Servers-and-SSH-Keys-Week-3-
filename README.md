@@ -11,7 +11,11 @@
 (I based my code entirely off of the NumberServer.java file from wavelet)
 ![Image](String_Code_CS15.png)
 
-#### The methods called
+### Methods:
+
+#### public String handleRequest(URI url) : This method is called by the StringHandler class, if the path includes /add-message it checks for the 's=' query to append whatever string follows. If the query is invalid it outputs an error message. This method keeps track of the number of messages as an integer.
+
+#### public static void main(String[] args) throws IOException: This method checks for a valid port number as an integer and starts the requested server to that port number, if invalid it outputs an error message.
 
 # Part 2
 ![Image](Private_CS15.png)
@@ -28,7 +32,7 @@
 
 #### My login did not ask for my password!!
 
-###### ![Image](Without_Pass_CS15.png)
+![Image](Without_Pass_CS15.png)
 
 
 # Part 3
