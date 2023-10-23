@@ -8,11 +8,14 @@
 
 ### Part 2
 ![Image](Private_CS15.png)
-The path to the private key 
+# The path to the *private* key 
+
 > C:\Users\17606\.ssh\id_rsa
 
 ![Image](public_cs15.png)
-The path to the public key 
+
+# The path to the *public* key 
+
 >/home/linux/ieng6/cs15lfa23/cs15lfa23bv/.ssh/authorized_keys
 ![Image](Without_Pass_CS15.png)
 
