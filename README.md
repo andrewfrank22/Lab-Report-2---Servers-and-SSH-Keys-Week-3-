@@ -17,7 +17,7 @@
 
 # The path to the *public* key 
 
->/home/linux/ieng6/cs15lfa23/cs15lfa23bv/.ssh/authorized_keys
+> # /home/linux/ieng6/cs15lfa23/cs15lfa23bv/.ssh/authorized_keys
 ![Image](Without_Pass_CS15.png)
 
 
