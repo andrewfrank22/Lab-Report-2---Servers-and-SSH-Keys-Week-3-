@@ -11,6 +11,7 @@
 (I based my code entirely off of the NumberServer.java file from wavelet)
 ![Image](String_Code_CS15.png)
 
+#### The methods called
 
 # Part 2
 ![Image](Private_CS15.png)
@@ -27,7 +28,7 @@
 
 #### My login did not ask for my password!!
 
-![Image](Without_Pass_CS15.png)
+##### ![Image](Without_Pass_CS15.png)
 
 
 # Part 3
