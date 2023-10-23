@@ -1,9 +1,9 @@
 # Lab-Report-2---Servers-and-SSH-Keys-Week-3-
 ### Part 1
-First Message Addition
+# First Message Addition
 
 ![Image](CSE15_SS_M1.png)
-Second Message Addition
+# Second Message Addition
 
 ![Image](CSE15_SS_M2.png)
 
