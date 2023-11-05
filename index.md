@@ -1,6 +1,6 @@
 ### Lab-Report-2---Servers-and-SSH-Keys-Week-3-
 # Part 1
-### Initially: additon messageCount = 0 and messages is empty since nothing has been added yet.
+### Initially: messageCount = 0 and messages is empty since nothing has been added yet.
 
 ### First Message Addition
 ![Image](CSE15_SS_M1.png)
