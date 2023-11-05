@@ -17,13 +17,13 @@
 ![Image](String_Code_CS15.png)
 
 ### Methods:
-
+![Image](String_Code_CS15class1.png)
 #### public String handleRequest(URI url) : This method is called by the StringHandler class, if the path includes /add-message it checks for the 's=' query to append whatever string follows. If the query is invalid it outputs an error message. This method keeps track of the number of messages as an integer. "Invalid" is returned when the input includes **/add-message** but does not contain **s=**. "404 Not Found!" is returned.
 
+![Image](String_Code_CS15class1.png)
 #### public static void main(String[] args) throws IOException: This method is called by the StringServer class. This method checks for a valid port number as an integer and starts the requested server to that port number, if invalid it will throw an error message.
 #### An invalid input may look like: java StringServer 1023, or java StringServer 50000000, or java StringServer (an empty request); as this class expects an input for args to be between 1024 to 49151. This does not start the server.
 #### A valid input may look like: java StringServer 4000, and this will start the server from the terminal.
-
 
 # Part 2
 ![Image](Private_CS15.png)
