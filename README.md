@@ -12,9 +12,10 @@
 ![Image](String_Code_CS15.png)
 
 ### Methods:
-
+![Image](String_Code_CS15class1.png)
 #### public String handleRequest(URI url) : This method is called by the StringHandler class, if the path includes /add-message it checks for the 's=' query to append whatever string follows. If the query is invalid it outputs an error message. This method keeps track of the number of messages as an integer.
 
+![Image](String_Code_CS15class2.png)
 #### public static void main(String[] args) throws IOException: This method checks for a valid port number as an integer and starts the requested server to that port number, if invalid it outputs an error message.
 
 # Part 2
