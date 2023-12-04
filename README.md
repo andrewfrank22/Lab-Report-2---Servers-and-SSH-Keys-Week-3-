@@ -12,7 +12,7 @@ Here's the screenshot of the terminal showing the compilation error:
 
 ![1lab5]
 
-2) response from a TA
+2) ### Response from a TA
    
 Hello,
 
