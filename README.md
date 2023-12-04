@@ -144,10 +144,11 @@ result=`grep "Tests run: " grading-area/testResults.txt`
 score=$(($numtest - ${result:(-2)}))
 echo ""
 echo "Score: " $score / $numtest
-
+```
 
 - The full command line (or lines) you ran to trigger the bug
   
+```
 FILEPATH=`find student-submission/ -name ListExamples.java`
 
 if [ ! -f "./student-submission/ListExamples.java" ]; then
