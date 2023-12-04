@@ -25,9 +25,11 @@ This will find any java files in your directory, after finding this we can find 
 3) Student's response:
  I ran the find command in the student-submission directory, and here's the output:
 
+![2lab5]
+
    I realized my file was called ListExample.java, without the "s". Thank you for very much this worked.
 
-4) - The file & directory structure needed:
+5) - The file & directory structure needed:
    - 
   directory needed: student-submission/ListExamples.java
 
@@ -42,7 +44,7 @@ import java.util.List;
 
 interface StringChecker { boolean checkString(String s); }
 
-class ListMethods {
+class ListExample {
 
   // Returns a new list that has all the elements of the input list for which
   // the StringChecker returns true, and not the elements that return false, in
