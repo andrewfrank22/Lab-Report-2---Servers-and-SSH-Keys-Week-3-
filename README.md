@@ -85,11 +85,13 @@ class ListMethods {
   }
 
 
-} ```
+}
+```
 
 # grade.sh
 
-``` CPATH='.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar'
+```
+ CPATH='.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar'
 CPATHNEW='.:../lib/hamcrest-core-1.3.jar:../lib/junit-4.13.2.jar'
 
 rm -rf student-submission
@@ -154,7 +156,8 @@ if [ ! -f "./student-submission/ListExamples.java" ]; then
 
 else
     echo "ListExamples in current directory."
-fi ```
+fi
+```
 
 - A description of what to edit to fix the bug
   
