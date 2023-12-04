@@ -10,7 +10,7 @@ Hi all,
 I am working on this weeks Programming Assignement for ListExamples.java, but it's failing to compile, I don't think the issue has to do with my actual code because I other TAs helped me with the code. Based off the message I think it has to do with the filepath or the directory but I am not sure.
 Here's the screenshot of the terminal showing the compilation error:
 
-![1lab5]
+![Image](1lab5.png)
 
 2) ### Response from a TA
    
@@ -25,7 +25,7 @@ This will find any java files in your directory, after finding this we can find 
 3) Student's response:
  I ran the find command in the student-submission directory, and here's the output:
 
-![2lab5]
+![Image](2lab5.png)
 
    I realized my file was called ListExample.java, without the "s". Thank you for very much this worked.
 
