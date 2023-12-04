@@ -22,7 +22,8 @@ The error message suggests there might be an issue with how the script is locati
 
 This will find any java files in your directory, after finding this we can find out if you are providing the file in the correct format which seems to be the issue here. You should find "ListExamples.java".
 
-3) Student's response:
+3) ### Student's response:
+   
  I ran the find command in the student-submission directory, and here's the output:
 
 ![Image](2lab5.png)
@@ -30,10 +31,10 @@ This will find any java files in your directory, after finding this we can find 
    I realized my file was called ListExample.java, without the "s". Thank you for very much this worked.
 
 5) - The file & directory structure needed:
-   - 
-  directory needed: student-submission/ListExamples.java
+     
+        directory needed: student-submission/ListExamples.java
 
-  file needed: ListExamples.java
+        file needed: ListExamples.java
   
    - The contents of each file before fixing the bug
 
